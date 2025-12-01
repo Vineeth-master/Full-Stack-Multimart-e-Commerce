@@ -21,7 +21,6 @@ I customized a Laravel admin dashboard called minimal and integrate backend func
 
 I created Multimart e-Commerce rest api using Node, Express, Mongo Db.
 
-[Live Preview](#) &nbsp; &nbsp; [Code Link](#)
 
 <img src="https://user-images.githubusercontent.com/71124853/187373613-4e093a1b-4a3f-412e-a411-f6044b42cd02.png">
 
