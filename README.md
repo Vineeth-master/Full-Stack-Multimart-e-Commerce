@@ -7,7 +7,6 @@ This is my full stack e-Commerce website created using React (Frontend), Laravel
 ## Frontend
 I created Full Stack Multimart e-Commerce frontend using React, Reactstrap, Bootstrap etc.
 
-[Live Preview](https://demo.reinforcelabhosting.com/) &nbsp; &nbsp; [Code Link](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/tree/main/Front%20End)
 
 ![Home](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/assets/76869065/ce509c69-1d9f-418f-96ad-9a63474760ea)
 
@@ -15,7 +14,6 @@ I created Full Stack Multimart e-Commerce frontend using React, Reactstrap, Boot
 ## Backend
 I customized a Laravel admin dashboard called minimal and integrate backend functionaliy & rest api.
 
-[Live Preview](#) &nbsp; &nbsp; [Code Link](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/tree/main/Back%20End)
 
 ![admin](https://github.com/mahadi-opu/Full-Stack-Multimart-Ecommerce/assets/76869065/d017ff84-1ce8-4e50-b946-d360dc6b2d0a)
 
